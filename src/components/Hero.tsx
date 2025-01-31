@@ -16,18 +16,18 @@ export const Hero = () => {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.2 }}
-          className="text-xl md:text-2xl text-apple-gray mb-12 max-w-2xl mx-auto"
+          className="text-xl md:text-2xl text-apple-gray mb-6"
         >
           Experience the future of wearable technology with our innovative Apple Watch app.
         </motion.p>
-        <motion.img
-          initial={{ opacity: 0, scale: 0.95 }}
-          animate={{ opacity: 1, scale: 1 }}
+        <motion.p
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.4 }}
-          src="https://images.unsplash.com/photo-1434494878577-86c23bcb06b9"
-          alt="Apple Watch Preview"
-          className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
-        />
+          className="text-lg text-apple-gray max-w-2xl mx-auto"
+        >
+          Our app seamlessly integrates with your daily routine, providing intelligent insights and personalized experiences right on your wrist. Stay connected, track your goals, and embrace the next generation of wearable innovation.
+        </motion.p>
       </div>
     </section>
   );
