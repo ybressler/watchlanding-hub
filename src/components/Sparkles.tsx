@@ -10,7 +10,7 @@ interface Sparkle {
 
 const colors = ['#007AFF', '#86868B']; // Apple blue and gray
 
-export const Sparkles = () => {
+export const Sparkles: React.FC = () => {
   const [sparkles, setSparkles] = useState<Sparkle[]>([]);
 
   const createSparkle = useCallback((x: number, y: number) => {
