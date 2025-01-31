@@ -67,3 +67,7 @@ Simply open [Lovable](https://lovable.dev/projects/74c9fb55-6ac5-4c2a-9176-a4a2f
 ## I want to use a custom domain - is that possible?
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+
+
+-----
+The Chickadee is a small, social bird known for its alertness and community spirit, always looking out for others while taking breaks to rest and recharge. Inspired by the chickadee’s balance of activity and rest, Chickadee.Family helps you manage your energy levels throughout the day. With gentle reminders and support from your loved ones, our app ensures you take regular breaks to stay refreshed and focused. Join a community that cares about your well-being and let your family and friends help you stay in sync with your energy.
